@@ -18,7 +18,6 @@ var SupportedSSHKeyExchangeAlgorithms = []string{
 	"ecdh-sha2-nistp521",
 	"diffie-hellman-group-exchange-sha256",
 	"diffie-hellman-group14-sha256",
-	"diffie-hellman-group14-sha1",
 }
 
 // List of default key exchange algorithms to use. We use those that are
